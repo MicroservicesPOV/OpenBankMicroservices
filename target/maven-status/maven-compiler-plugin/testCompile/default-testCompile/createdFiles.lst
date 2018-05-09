@@ -1,0 +1,8 @@
+com\OpenBank\cucumber\steps\UpdateRally.class
+com\OpenBank\util\ReusableSpecifications.class
+com\OpenBank\testbase\TestBase.class
+com\OpenBank\cucumber\steps\AddAttachmentToUserStory.class
+com\OpenBank\cucumber\steps\GenerateSerenityReport.class
+com\OpenBank\cucumber\steps\OpenBankSteps.class
+com\OpenBank\cucumber\serenity\OpenBankSerenitySteps.class
+com\OpenBank\cucumber\OpenBankRunner.class
